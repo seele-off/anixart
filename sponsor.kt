@@ -20,7 +20,7 @@ iget-object v0, p0, Lcom/seele/anixart/Prefs;->a:Landroid/content/SharedPreferen
 [ {
 "id":"1","functional":
   "isSponsor": "true", <!--In case of change-->
-  "is_sponsor": "trur",
+  "is_sponsor": "truе",
   "isVerified": "true", <!--In case of change-->
   "is_verified": "true",
 } ]
