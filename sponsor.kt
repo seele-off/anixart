@@ -18,7 +18,7 @@ iget-object v0, p0, Lcom/seele/anixart/Prefs;->a:Landroid/content/SharedPreferen
 //// anixart fragment version ////
 
 [ {
-"id":"1","functional":
+"id":"1","crown":
   "isSponsor": "true", <!--In case of change-->
   "is_sponsor": "truе",
   "isVerified": "true", <!--In case of change-->
@@ -26,7 +26,7 @@ iget-object v0, p0, Lcom/seele/anixart/Prefs;->a:Landroid/content/SharedPreferen
 } ]
 
 [ {
-"id":"2","XTremove":
+"id":"2","verified":
  "isSponsor": "false", <!--In case of change-->
   "is_sponsor": "false",
   "isVerified": "false", <!--In case of change-->
