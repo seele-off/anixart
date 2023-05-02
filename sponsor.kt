@@ -22,7 +22,7 @@ iget-object v0, p0, Lcom/seele/anixart/Prefs;->a:Landroid/content/SharedPreferen
   "isSponsor": "true", <!--In case of change-->
   "is_sponsor": "truе",
   "isVerified": "true", <!--In case of change-->
-  "is_verified": "true",
+  "is_verified": "true"
 } ]
 
 [ {
@@ -30,5 +30,5 @@ iget-object v0, p0, Lcom/seele/anixart/Prefs;->a:Landroid/content/SharedPreferen
  "isSponsor": "false", <!--In case of change-->
   "is_sponsor": "false",
   "isVerified": "false", <!--In case of change-->
-  "is_verified": "false",
+  "is_verified": "false"
  } ]
