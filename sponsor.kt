@@ -1,5 +1,5 @@
 <unknown>
-  <vzlomzhopa>скоро</vzlomjopa>
+  <vzlomjopa>скоро</vzlomjopa>
 </unknown>
 
   //// Application Fragments ////
