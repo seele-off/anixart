@@ -1,2 +1,6 @@
 <unknown>
-///Методы удалены по просьбе разработчиков Anixart
+  <vzlomzhopa>скоро</vzlomjopa>
+</unknown>
+
+  //// Application Fragments ////
+  <string name="downloadLink">Download</string>\
