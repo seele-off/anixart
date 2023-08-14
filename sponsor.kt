@@ -3,4 +3,4 @@
 </unknown>
 
   //// Application Fragments ////
-  <string name="downloadLink">Download</string>\
+  <string name="string_download">Download</string>\
