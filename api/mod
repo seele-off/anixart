@@ -1,1 +1,10 @@
-Privat
+[
+ {
+  "api":"https://api.anixart.tv/",
+  "api2":"https://api2.anixart.tv/",
+  "releasePortal":"/release/",
+  "contentId":"{id}",
+  "linkForRelease":"https://api.anixart.tv/release/{id}",
+  "link2ForRelease":"https://api2.anixart.tv/release/{id}"
+ }
+]
