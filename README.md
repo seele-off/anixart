@@ -1,7 +1,6 @@
 Anixart 8.2.1 Sl
 
 Мод разделен на два типа
-
 Default и Custom
 
 
