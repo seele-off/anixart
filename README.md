@@ -25,7 +25,7 @@ By Seele (https://t.me/seele_off)
 
 — Monet Theme
 
-Загрузить: https://github.com/seele-off/anixart/releases/tag/anixart-monet-theme-mod
+Загрузить: https://github.com/seele-off/anixart/releases/download/anixart-monet-theme-mod/Anixart.v8.2.1.-.v1.1.Exclusive.apk
 
 ————————————————————————————————————
 
