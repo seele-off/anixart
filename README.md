@@ -1,5 +1,4 @@
-Anixart
-Базовая версия: 8.2.1
+Anixart\nБазовая версия: 8.2.1
 Версия мода: 1.0 Exclusive
 By Seele (https://t.me/seele_off)
 
