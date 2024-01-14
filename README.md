@@ -4,7 +4,7 @@ Anixart<br>Базовая версия: 8.2.1<br>Версия мода: 1.0 Excl
 
 От the_dise (https://t.me/thedise)<br>— Monet Theme
 
-Загрузить: https://github.com/seele-off/anixart/releases/download/anixart-monet-theme-mod/Anixart.v8.2.1.-.v1.1.Exclusive.apk
+Загрузить: <link>https://github.com/seele-off/anixart/releases/download/anixart-monet-theme-mod/Anixart.v8.2.1.-.v1.1.Exclusive.apk</link>
 
 ————————————————————————————————————
 
