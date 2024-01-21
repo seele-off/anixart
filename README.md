@@ -6,7 +6,7 @@
 
 От the_dise (https://t.me/thedise)<br>— Monet Theme
 
-Загрузить: <a href="https://github.com/seele-off/anixart/releases/download/anixart-monet-theme-mod/Anixart_v1.2_Base_v8.2.1_Exclusive.apk">Anixart v1.2 Exclusive (Base: 8.2.1)</a>
+Загрузить: <a href="https://github.com/seele-off/anixart/releases/download/anixart-monet-theme-mod/Anixart_v8.2.1_Exclusive.apk">Anixart v1.2 Exclusive (Base: 8.2.1)</a>
 
 ————————————————————————————————————
 
