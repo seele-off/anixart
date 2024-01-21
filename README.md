@@ -1,4 +1,4 @@
-Репозиторий модов, где хранятся различные моды для <a href="https://seele-off.github.io/anixart/repository">Anixarr</a>
+Репозиторий модов, где хранятся различные моды для <a href="https://seele-off.github.io/anixart/repository">Anixart</a>
 
 <b>Anixart</b><br>Базовая версия: 8.2.1<br>Версия мода: 1.0 Exclusive<br>By Seele (https://t.me/seele_off)
 
