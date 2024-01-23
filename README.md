@@ -6,13 +6,13 @@
 
 ————————————————————————————————————
 
-<b>Anixart</b><br>Базовая версия: 8.2.1<br>Версия мода: 1.2 Exclusive<br>By Seele (https://t.me/seele_off)
+<b>Anixart</b><br>Базовая версия: 8.2.1<br>Версия мода: 1.3 Exclusive<br>By Seele (https://t.me/seele_off)
 
 Список изменений:<br>— Без рекламы;<br>— Kodik видеохостинг без рекламы и доступен в разрешении 720p;<br>— Весь мусор внутри приложения удален;<br>— Установлено новое пользовательское расширение.<br>→ Расширение, предназначенное для просмотра аниме, заблокированного из-за нарушения авторских прав или недоступного по иным причинам.<br>— Monet Иконки
 
 От Neka (https://t.me/bocchi_the_neka)<br>— Monet Theme
 
-Загрузить: <a href="https://github.com/seele-off/anixart/releases/download/anixart-monet-theme-mod/Anixart.v1.3.Base.v8.2.1.Exclusive.apk">Anixart v1.2 Exclusive (Base: 8.2.1)</a>
+Загрузить: <a href="https://github.com/seele-off/anixart/releases/download/anixart-monet-theme-mod/Anixart_v8.2.1_Exclusive.apk">Anixart v1.3 Exclusive</a>
 
 ————————————————————————————————————
 
