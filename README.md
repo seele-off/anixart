@@ -39,7 +39,7 @@
 <li>Весь мусор внутри приложения удален;</li>
 <li>Установлено новое пользовательское расширение.<br>→ Расширение, предназначенное для просмотра аниме, заблокированного из-за нарушения авторских прав или недоступного по иным причинам.</li>
 <li>Monet Иконки</li>
-<li>Monet Theme (От t.me/bocchi_the_neka)</li>
+<li>Monet Theme (От https://t.me/bocchi_the_neka)</li>
 </ul>
 
 <a href="https://github.com/seele-off/anixart/releases/download/anixart-monet-theme-mod/Anixart_v8.2.1_Exclusive.apk">Скачать</a>
