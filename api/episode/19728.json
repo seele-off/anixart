@@ -4,12 +4,12 @@
 {
 "@id": 1,
 "id": 29,
-"name": "StudioBand",
+"name": "Seele",
 "icon": null,
 "workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
-"episodes_count": 25,
-"view_count": 65483,
+"episodes_count": 1,
+"view_count": 0,
 "pinned": false
 }
 ]
