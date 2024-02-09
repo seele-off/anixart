@@ -11,6 +11,17 @@
 "episodes_count": 1,
 "view_count": 0,
 "pinned": false
+},
+  {
+    "@id": 1,
+"id": 29,
+"name": "Seele 2",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
 }
 ]
 }
