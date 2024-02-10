@@ -1,0 +1,56 @@
+"@id": 12,
+"id": 186,
+"name": "AniMovie",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 12,
+"pinned": false
+},
+{
+"@id": 13,
+"id": 93,
+"name": "FumoDub",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 8,
+"pinned": false
+},
+{
+"@id": 14,
+"id": 149,
+"name": "Trina_D & Rizz_Fisher",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 8,
+"pinned": false
+},
+{
+"@id": 15,
+"id": 164,
+"name": "NekoVoice",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 6,
+"view_count": 3,
+"pinned": false
+},
+{
+"@id": 16,
+"id": 30,
+"name": "Jisedai",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 2,
+"view_count": 2,
+"pinned": false
+}
+]
+}
