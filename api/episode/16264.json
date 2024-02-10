@@ -1,0 +1,113 @@
+},
+{
+"@id": 10,
+"id": 147,
+"name": "Eladiel & Zendos",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 16,
+"view_count": 32,
+"pinned": false
+},
+{
+"@id": 11,
+"id": 31,
+"name": "Субтитры | AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 16,
+"view_count": 29,
+"pinned": false
+},
+{
+"@id": 12,
+"id": 32,
+"name": "Субтитры | WA",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 16,
+"view_count": 20,
+"pinned": false
+},
+{
+"@id": 13,
+"id": 185,
+"name": "TVShows",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 16,
+"view_count": 20,
+"pinned": false
+},
+{
+"@id": 14,
+"id": 30,
+"name": "Jisedai",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 16,
+"view_count": 16,
+"pinned": false
+},
+{
+"@id": 15,
+"id": 61,
+"name": "AniVersal",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 11,
+"view_count": 4,
+"pinned": false
+},
+{
+"@id": 16,
+"id": 63,
+"name": "Sergei Vasya",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 16,
+"view_count": 3,
+"pinned": false
+},
+{
+"@id": 17,
+"id": 11,
+"name": "AniStar Многоголосый",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 2,
+"pinned": false
+},
+{
+"@id": 18,
+"id": 18,
+"name": "youmiteru",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 16,
+"view_count": 1,
+"pinned": false
+},
+{
+"@id": 19,
+"id": 10,
+"name": "AniStar",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 1,
+"pinned": false
+}
+]
+}
