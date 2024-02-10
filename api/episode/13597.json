@@ -6,10 +6,10 @@
 "id": 90,
 "name": "ХЗ Лол",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 1,
-"view_count": 756,
+"view_count": 0,
 "pinned": false
 }
 ]
