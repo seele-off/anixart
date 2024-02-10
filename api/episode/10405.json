@@ -6,10 +6,10 @@
 "id": 36,
 "name": "Люб. Одноголосый",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 1,
-"view_count": 182,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -17,10 +17,10 @@
 "id": 176,
 "name": "SovetRomantica",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 1,
-"view_count": 110,
+"view_count": 0,
 "pinned": false
 }
 ]
