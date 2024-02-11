@@ -1,0 +1,148 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 88,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 9,
+"name": "AnimeVost",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 4,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 10,
+"name": "AniStar",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 11,
+"name": "AniStar Многоголосый",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 9,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 18,
+"name": "youmiteru",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 24,
+"name": "Субтитры",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 8,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 30,
+"name": "Jisedai",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 4,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 9,
+"id": 33,
+"name": "Amazing Dubbing",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 10,
+"id": 63,
+"name": "Sergei Vasya",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 11,
+"id": 64,
+"name": "FRONDA",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 12,
+"id": 150,
+"name": "Субтитры | Naikō",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 13,
+"id": 7,
+"name": "Субтитры | SovetRomantica",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 12,
+"view_count": 0,
+"pinned": false
+}
+]
+}

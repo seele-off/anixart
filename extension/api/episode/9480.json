@@ -1,0 +1,49 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 16,
+"name": "Kansai",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 3,
+"view_count": 2079,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 26,
+"name": "Дублированный",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 3,
+"view_count": 1237,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 46,
+"name": "Субтитры | CR",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 3,
+"view_count": 200,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 15,
+"name": "Onibaku",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 3,
+"view_count": 60,
+"pinned": false
+}
+]
+}
