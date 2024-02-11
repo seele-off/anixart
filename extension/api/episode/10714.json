@@ -6,10 +6,10 @@
 "id": 16,
 "name": "Kansai",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 2,
-"view_count": 1076,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -17,10 +17,10 @@
 "id": 26,
 "name": "Дублированный",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 2,
-"view_count": 775,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -28,10 +28,10 @@
 "id": 2,
 "name": "AniLibria",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 1,
-"view_count": 139,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -39,10 +39,10 @@
 "id": 46,
 "name": "Субтитры | CR",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 2,
-"view_count": 130,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -50,10 +50,10 @@
 "id": 15,
 "name": "Onibaku",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 2,
-"view_count": 17,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -61,10 +61,10 @@
 "id": 164,
 "name": "NekoVoice",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 2,
-"view_count": 10,
+"view_count": 0,
 "pinned": false
 }
 ]
