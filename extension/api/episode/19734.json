@@ -1,0 +1,60 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 46,
+"name": "Субтитры | CR",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 270,
+"name": "AniBaza",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 244,
+"name": "Кладбище топовых релизов",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 7,
+"name": "Субтитры | SovetRomantica",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 0,
+"pinned": false
+}
+]
+}
