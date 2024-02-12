@@ -6,10 +6,10 @@
 "id": 29,
 "name": "StudioBand",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 27461,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -17,10 +17,10 @@
 "id": 2,
 "name": "AniLibria",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 4469,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -28,10 +28,10 @@
 "id": 1,
 "name": "AniDUB",
 "icon": null,
-"workers": "JAM, Trina_D",
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 1058,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -39,10 +39,10 @@
 "id": 46,
 "name": "Субтитры | CR",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 633,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -50,10 +50,10 @@
 "id": 16,
 "name": "Kansai",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 189,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -61,10 +61,10 @@
 "id": 7,
 "name": "Субтитры | SovetRomantica",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 139,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -72,10 +72,10 @@
 "id": 147,
 "name": "Eladiel & Zendos",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 52,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -83,10 +83,10 @@
 "id": 12,
 "name": "AniMedia",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 35,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -94,10 +94,10 @@
 "id": 176,
 "name": "SovetRomantica",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 15,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -105,10 +105,10 @@
 "id": 223,
 "name": "Risens Team",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 14,
+"view_count": 0,
 "pinned": false
 }
 ]
