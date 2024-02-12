@@ -6,10 +6,10 @@
 "id": 1,
 "name": "AniDUB",
 "icon": null,
-"workers": "Demetra, Esther",
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 752,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -17,10 +17,10 @@
 "id": 2,
 "name": "AniLibria",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 361,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -28,10 +28,10 @@
 "id": 17,
 "name": "SHIZA Project",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 32,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -39,10 +39,10 @@
 "id": 14,
 "name": "AniFilm",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 6,
+"view_count": 0,
 "pinned": false
 }
 ]
