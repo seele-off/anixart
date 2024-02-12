@@ -6,10 +6,10 @@
 "id": 16,
 "name": "Kansai",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 3,
-"view_count": 2079,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -17,10 +17,10 @@
 "id": 26,
 "name": "Дублированный",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 3,
-"view_count": 1237,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -28,10 +28,10 @@
 "id": 46,
 "name": "Субтитры | CR",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 3,
-"view_count": 200,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -39,10 +39,10 @@
 "id": 15,
 "name": "Onibaku",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 3,
-"view_count": 60,
+"view_count": 0,
 "pinned": false
 }
 ]
