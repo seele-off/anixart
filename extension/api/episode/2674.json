@@ -1,0 +1,16 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Тinko, Nika Lenina, Chigusa, Yupinory",
+"is_sub": false,
+"episodes_count": 26,
+"view_count": 719,
+"pinned": false
+}
+]
+}
