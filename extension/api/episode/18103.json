@@ -6,10 +6,10 @@
 "id": 29,
 "name": "StudioBand",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 27720,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -17,10 +17,10 @@
 "id": 12,
 "name": "AniMedia",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 1483,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -28,10 +28,10 @@
 "id": 46,
 "name": "Субтитры | CR",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 893,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -39,10 +39,10 @@
 "id": 26,
 "name": "Дублированный",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 694,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -50,10 +50,10 @@
 "id": 9,
 "name": "AnimeVost",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 452,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -61,10 +61,10 @@
 "id": 1,
 "name": "AniDUB",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 4,
-"view_count": 141,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -72,10 +72,10 @@
 "id": 24,
 "name": "Субтитры",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 132,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -83,10 +83,10 @@
 "id": 115,
 "name": "NewComers",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 36,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -94,10 +94,10 @@
 "id": 185,
 "name": "TVShows",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 33,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -105,10 +105,10 @@
 "id": 18,
 "name": "youmiteru",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 16,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -116,10 +116,10 @@
 "id": 32,
 "name": "Субтитры | WA",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 9,
-"view_count": 15,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -127,10 +127,10 @@
 "id": 186,
 "name": "AniMovie",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 12,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -138,10 +138,10 @@
 "id": 93,
 "name": "FumoDub",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 8,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -149,10 +149,10 @@
 "id": 149,
 "name": "Trina_D & Rizz_Fisher",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 5,
-"view_count": 8,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -160,10 +160,10 @@
 "id": 164,
 "name": "NekoVoice",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 6,
-"view_count": 3,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -171,10 +171,10 @@
 "id": 30,
 "name": "Jisedai",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 2,
-"view_count": 2,
+"view_count": 0,
 "pinned": false
 }
 ]
