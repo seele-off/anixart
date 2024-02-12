@@ -6,10 +6,10 @@
 "id": 1,
 "name": "AniDUB",
 "icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»"
+"workers": "Marclail",
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 0,
+"view_count": 471,
 "pinned": false
 },
 {
@@ -17,10 +17,10 @@
 "id": 17,
 "name": "SHIZA Project",
 "icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
+"workers": null,
 "is_sub": false,
 "episodes_count": 12,
-"view_count": 0,
+"view_count": 239,
 "pinned": false
 }
 ]
