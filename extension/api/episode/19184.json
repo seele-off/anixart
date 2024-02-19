@@ -1,0 +1,27 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 9,
+"name": "AnimeVost",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 5456,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 10,
+"name": "AniStar",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 4,
+"view_count": 504,
+"pinned": false
+}
+]
+}
