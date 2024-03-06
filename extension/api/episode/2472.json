@@ -1,0 +1,93 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 2121,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Jade, Orru, Berserk, Mirona",
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 1504,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 7,
+"name": "Субтитры | SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 187,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 57,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 176,
+"name": "SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 16,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 16,
+"name": "Kansai",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 5,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 97,
+"name": "Indie Dub",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 5,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 12,
+"name": "AniMedia",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 4,
+"pinned": false
+}
+]
+}
