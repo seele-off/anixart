@@ -26,9 +26,9 @@
 {
 "@id": 3,
 "id": 7,
-"name": "Отображается благодаря расширению «MD Seele»",
+"name": "Субтитры | SovetRomantica",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 13,
 "view_count": 0,
