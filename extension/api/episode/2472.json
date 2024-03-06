@@ -6,10 +6,10 @@
 "id": 2,
 "name": "AniLibria",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 13,
-"view_count": 2121,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -17,21 +17,21 @@
 "id": 1,
 "name": "AniDUB",
 "icon": null,
-"workers": "Jade, Orru, Berserk, Mirona",
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 13,
-"view_count": 1504,
+"view_count": 0,
 "pinned": false
 },
 {
 "@id": 3,
 "id": 7,
-"name": "Субтитры | SovetRomantica",
+"name": "Отображается благодаря расширению «MD Seele»",
 "icon": null,
 "workers": null,
 "is_sub": false,
 "episodes_count": 13,
-"view_count": 187,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -39,10 +39,10 @@
 "id": 17,
 "name": "SHIZA Project",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 13,
-"view_count": 57,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -50,10 +50,10 @@
 "id": 176,
 "name": "SovetRomantica",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 13,
-"view_count": 16,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -61,10 +61,10 @@
 "id": 16,
 "name": "Kansai",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 13,
-"view_count": 5,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -72,10 +72,10 @@
 "id": 97,
 "name": "Indie Dub",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 13,
-"view_count": 5,
+"view_count": 0,
 "pinned": false
 },
 {
@@ -83,10 +83,10 @@
 "id": 12,
 "name": "AniMedia",
 "icon": null,
-"workers": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
 "is_sub": false,
 "episodes_count": 13,
-"view_count": 4,
+"view_count": 0,
 "pinned": false
 }
 ]
