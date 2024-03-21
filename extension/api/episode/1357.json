@@ -1,0 +1,115 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "JAM",
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 160629,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 111654,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 22,
+"name": "JAM CLUB",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 36480,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 12,
+"name": "AniMedia",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 2565,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 1480,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 14,
+"name": "AniFilm",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 1098,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 41,
+"name": "Persona99",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 201,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 106,
+"name": "LE-Production",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 148,
+"pinned": false
+},
+{
+"@id": 9,
+"id": 232,
+"name": "KitsuneBox",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 145,
+"pinned": false
+},
+{
+"@id": 10,
+"id": 288,
+"name": "ArrowHell",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 4,
+"view_count": 45,
+"pinned": false
+}
+]
+}
