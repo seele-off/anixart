@@ -1,0 +1,159 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "JAM",
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 109346,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 63839,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 22,
+"name": "JAM CLUB",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 17,
+"view_count": 6058,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 9,
+"name": "AnimeVost",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 1738,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 7,
+"name": "Субтитры | SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 608,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 176,
+"name": "SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 227,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 208,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 12,
+"name": "AniMedia",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 156,
+"pinned": false
+},
+{
+"@id": 9,
+"id": 11,
+"name": "AniStar Многоголосый",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 119,
+"pinned": false
+},
+{
+"@id": 10,
+"id": 10,
+"name": "AniStar",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 95,
+"pinned": false
+},
+{
+"@id": 11,
+"id": 21,
+"name": "AniRise",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 58,
+"pinned": false
+},
+{
+"@id": 12,
+"id": 13,
+"name": "AniMaunt",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 16,
+"view_count": 13,
+"pinned": false
+},
+{
+"@id": 13,
+"id": 20,
+"name": "Субтитры | AniRise",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 7,
+"view_count": 13,
+"pinned": false
+},
+{
+"@id": 14,
+"id": 18,
+"name": "youmiteru",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 6,
+"view_count": 12,
+"pinned": false
+}
+]
+}
