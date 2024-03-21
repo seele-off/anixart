@@ -1,0 +1,159 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 103215,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 29406,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 12,
+"name": "AniMedia",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 3103,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 9,
+"name": "AnimeVost",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 1268,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 7,
+"name": "Субтитры | SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 870,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 631,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 10,
+"name": "AniStar",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 548,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 63,
+"name": "Sergei Vasya",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 23,
+"view_count": 279,
+"pinned": false
+},
+{
+"@id": 9,
+"id": 65,
+"name": "Omori",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 56,
+"pinned": false
+},
+{
+"@id": 10,
+"id": 41,
+"name": "Persona99",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 24,
+"view_count": 53,
+"pinned": false
+},
+{
+"@id": 11,
+"id": 64,
+"name": "FRONDA",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 18,
+"pinned": false
+},
+{
+"@id": 12,
+"id": 30,
+"name": "Jisedai",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 3,
+"view_count": 14,
+"pinned": false
+},
+{
+"@id": 13,
+"id": 61,
+"name": "AniVersal",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 7,
+"view_count": 12,
+"pinned": false
+},
+{
+"@id": 14,
+"id": 176,
+"name": "SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 7,
+"pinned": false
+}
+]
+}
