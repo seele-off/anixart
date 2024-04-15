@@ -1,0 +1,49 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 144,
+"name": "Force Media",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 75,
+"view_count": 1110,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 24,
+"name": "Субтитры",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 75,
+"view_count": 132,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Алекс Килька, Павел",
+"is_sub": false,
+"episodes_count": 76,
+"view_count": 123,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 36,
+"name": "Люб. Одноголосый",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 75,
+"view_count": 100,
+"pinned": false
+}
+]
+}
