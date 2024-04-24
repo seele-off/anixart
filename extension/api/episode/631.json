@@ -1,0 +1,71 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 25,
+"view_count": 108729,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Ancord",
+"is_sub": false,
+"episodes_count": 25,
+"view_count": 11825,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 24,
+"name": "Субтитры",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 25,
+"view_count": 2456,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 60,
+"name": "MiraiDUB",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 25,
+"view_count": 438,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 15,
+"name": "Onibaku",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 25,
+"view_count": 245,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 42,
+"name": "Persona99 & MaxDamage",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 25,
+"view_count": 172,
+"pinned": false
+}
+]
+}
