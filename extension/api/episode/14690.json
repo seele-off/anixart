@@ -1,0 +1,93 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 51,
+"name": "Anton Shanteau",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 63,
+"view_count": 55063,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 55,
+"name": "ПВА ШОУ",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 40,
+"view_count": 4970,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 48,
+"name": "Animy",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 53,
+"view_count": 2312,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 11,
+"name": "AniStar Многоголосый",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 15,
+"view_count": 436,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 193,
+"name": "Aniharu",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 53,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 148,
+"name": "Субтитры | AniMy",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 0,
+"view_count": 8,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 24,
+"name": "Субтитры",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 0,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 65,
+"name": "Omori",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 0,
+"view_count": 0,
+"pinned": false
+}
+]
+}
