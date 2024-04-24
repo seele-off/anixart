@@ -1,0 +1,71 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 17,
+"view_count": 5510,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "OSLIKt, Azazel, Jade",
+"is_sub": false,
+"episodes_count": 17,
+"view_count": 1112,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 176,
+"name": "SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 216,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 68,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 15,
+"name": "Onibaku",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 30,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 60,
+"name": "MiraiDUB",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 16,
+"pinned": false
+}
+]
+}
