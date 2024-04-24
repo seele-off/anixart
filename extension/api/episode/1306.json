@@ -1,0 +1,60 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Inspector_Gadjet, Oriko",
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 3783,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 1255,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 24,
+"name": "Субтитры",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 267,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 234,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 15,
+"name": "Onibaku",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 13,
+"view_count": 50,
+"pinned": false
+}
+]
+}
