@@ -1,0 +1,104 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 15,
+"view_count": 170,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 10,
+"name": "AniStar",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 15,
+"view_count": 74,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 270,
+"name": "AniBaza",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 15,
+"view_count": 55,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 9,
+"name": "AnimeVost",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 15,
+"view_count": 39,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 158,
+"name": "Субтитры | Light Family",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 15,
+"view_count": 6,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 18,
+"name": "youmiteru",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 5,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 72,
+"name": "AniPlague",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 10,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 9,
+"id": 140,
+"name": "LightFamily",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 10,
+"view_count": 0,
+"pinned": false
+}
+]
+}
