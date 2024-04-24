@@ -1,0 +1,93 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "JAM",
+"is_sub": false,
+"episodes_count": 51,
+"view_count": 46247,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 51,
+"view_count": 26897,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 22,
+"name": "JAM CLUB",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 51,
+"view_count": 22048,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 51,
+"view_count": 2073,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 7,
+"name": "Субтитры | SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 51,
+"view_count": 839,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 176,
+"name": "SovetRomantica",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 51,
+"view_count": 357,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 21,
+"name": "AniRise",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 51,
+"view_count": 325,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 12,
+"name": "AniMedia",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 51,
+"view_count": 230,
+"pinned": false
+}
+]
+}
