@@ -1,0 +1,71 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Ancord",
+"is_sub": false,
+"episodes_count": 102,
+"view_count": 142228,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 49,
+"name": "Ancord",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 90,
+"view_count": 61661,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 90,
+"view_count": 6483,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 2,
+"name": "AniLibria",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 90,
+"view_count": 2029,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 12,
+"name": "AniMedia",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 90,
+"view_count": 1176,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 15,
+"name": "Onibaku",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 90,
+"view_count": 670,
+"pinned": false
+}
+]
+}
