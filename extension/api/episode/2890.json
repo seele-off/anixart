@@ -1,0 +1,38 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Jevis, Azazel, Crupt, Jade, Lem0nka, Vel, Mamzelka",
+"is_sub": false,
+"episodes_count": 6,
+"view_count": 2455,
+"pinned": false
+},
+{
+"@id": 2,
+"id": 28,
+"name": "MC Entertainment",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 6,
+"view_count": 168,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 17,
+"name": "SHIZA Project",
+"icon": null,
+"workers": null,
+"is_sub": false,
+"episodes_count": 6,
+"view_count": 96,
+"pinned": false
+}
+]
+}
