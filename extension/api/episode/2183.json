@@ -1,71 +1,71 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Студия ЯСКЪЕР, Ancord, Nika Lenina, Jade, Oriko, Сергей Пономарёв, Михаил Кшиштовский, Azazel",
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 1169,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 310,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 17,
-"name": "SHIZA Project",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 46,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 15,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 34,
-"name": "Люб. Двухголосый",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 12,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 74,
-"name": "SEKAI PROJECT",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 8,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1228,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 316,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 48,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 15,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 34,
+      "name": "Люб. Двухголосый",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 12,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 74,
+      "name": "SEKAI PROJECT",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 8,
+      "pinned": false
+    }
+  ]
 }

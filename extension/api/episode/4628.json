@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 36,
+      "name": "Люб. Одноголосый",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 3,
+      "view_count": 90,
+      "pinned": false
+    }
+  ]
+}

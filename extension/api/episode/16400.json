@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 145,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 14,
+      "name": "AniFilm",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 35,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 11,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 108,
+      "name": "Субтитры | YakuSub Studio",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 7,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 86,
+      "name": "VokiDoki",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 2,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 278,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 26,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 25,
+      "name": "Amber",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 12,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 15,
+      "name": "Onibaku",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 35,
+      "name": "Люб. Многоголосый",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 0,
+      "pinned": false
+    }
+  ]
+}

@@ -1,27 +1,27 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 10,
-"name": "AniStar",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 26,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 48,
-"name": "Animy",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 26,
-"view_count": 0,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 26,
+      "view_count": 2586,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 48,
+      "name": "Animy",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 26,
+      "view_count": 1763,
+      "pinned": false
+    }
+  ]
 }

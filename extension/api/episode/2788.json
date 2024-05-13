@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Jerwis, Ket, Bars MacAdams, Qbiq, Lelik_time, Mirona, Molodoy",
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 8463,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 4497,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 652,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 127,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 68,
+      "name": "Проф. CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 102,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 61,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 176,
+      "name": "SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 24,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 72,
+      "name": "AniPlague",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 17,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 248,
+      "name": "TO Bamboo",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 5,
+      "pinned": false
+    },
+    {
+      "@id": 10,
+      "id": 18,
+      "name": "youmiteru",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 2,
+      "pinned": false
+    }
+  ]
+}

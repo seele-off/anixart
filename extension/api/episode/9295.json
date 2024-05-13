@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 296,
+      "name": "Субтитры | МАНИПУЛЯТОР",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 538,
+      "pinned": false
+    }
+  ]
+}

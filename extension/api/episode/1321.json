@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "BalFor, Oriko, Kiara_Laine",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 515,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 99,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 16,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 15,
+      "pinned": false
+    }
+  ]
+}

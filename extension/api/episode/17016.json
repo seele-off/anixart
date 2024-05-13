@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 112545,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 12407,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 7328,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 1390,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 143,
+      "name": "КОМНАТА ДИДИ",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 1259,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 33,
+      "name": "Amazing Dubbing",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 141,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 64,
+      "name": "FRONDA",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 57,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 43,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 74,
+      "name": "SEKAI PROJECT",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 33,
+      "pinned": false
+    },
+    {
+      "@id": 10,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 3,
+      "view_count": 7,
+      "pinned": false
+    }
+  ]
+}

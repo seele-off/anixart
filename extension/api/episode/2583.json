@@ -1,71 +1,71 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 13,
-"view_count": 563,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Aleko, Vel, Veda",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 161,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 46,
-"name": "Субтитры | CR",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 74,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 68,
-"name": "Проф. CR",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 44,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 7,
-"name": "Субтитры | SovetRomantica",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 24,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 2,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 668,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Aleko, Vel, Veda",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 167,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 90,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 68,
+      "name": "Проф. CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 44,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 24,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 2,
+      "pinned": false
+    }
+  ]
 }

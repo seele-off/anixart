@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 93,
+      "name": "FumoDub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 924,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 305,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 183,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 270,
+      "name": "AniBaza",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 66,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 226,
+      "name": "Субтитры | Kazoku Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 18,
+      "pinned": false
+    }
+  ]
+}

@@ -1,38 +1,38 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 10,
-"name": "AniStar",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 13,
-"name": "AniMaunt",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 21,
-"name": "AniRise",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 0,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 422,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 13,
+      "name": "AniMaunt",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 20,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 21,
+      "name": "AniRise",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 8,
+      "pinned": false
+    }
+  ]
 }

@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 19,
+      "view_count": 1456,
+      "pinned": false
+    }
+  ]
+}

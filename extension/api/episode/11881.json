@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 62,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 80,
+      "name": "Cactus Team",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 6,
+      "pinned": false
+    }
+  ]
+}

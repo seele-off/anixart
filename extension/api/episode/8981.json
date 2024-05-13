@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 188,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 35,
+      "name": "Люб. Многоголосый",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 44,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 212,
+      "name": "WiaDub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 9,
+      "pinned": false
+    }
+  ]
+}

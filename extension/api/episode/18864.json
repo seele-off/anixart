@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 115,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 9,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 5,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 5,
+      "pinned": false
+    }
+  ]
+}

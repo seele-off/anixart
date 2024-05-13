@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Jade, Oni",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 2928,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 309,
+      "pinned": false
+    }
+  ]
+}

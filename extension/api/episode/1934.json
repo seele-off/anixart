@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Azazel, Chigusa",
+      "is_sub": false,
+      "episodes_count": 3,
+      "view_count": 19,
+      "pinned": false
+    }
+  ]
+}

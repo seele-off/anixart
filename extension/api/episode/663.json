@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 1075,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 487,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 15,
+      "name": "Onibaku",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 83,
+      "pinned": false
+    }
+  ]
+}

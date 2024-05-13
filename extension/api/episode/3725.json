@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 41,
+      "name": "Persona99",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 9,
+      "view_count": 30,
+      "pinned": false
+    }
+  ]
+}

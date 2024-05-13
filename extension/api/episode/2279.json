@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Jade, Nika Lenina, Oriko. Rizz Fisher",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 347,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 24,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 240,
+      "name": "AniJoy",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 3,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 84,
+      "name": "Tina",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 0,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 228,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 157,
+      "name": "Animegroup",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 19,
+      "pinned": false
+    }
+  ]
+}

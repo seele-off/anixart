@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 76,
+      "view_count": 9344,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 67,
+      "view_count": 887,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 13,
+      "name": "AniMaunt",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 17,
+      "view_count": 175,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 48,
+      "name": "Animy",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 12,
+      "pinned": false
+    }
+  ]
+}

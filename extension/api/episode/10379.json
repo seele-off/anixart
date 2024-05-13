@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 232,
+      "name": "KitsuneBox",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1157,
+      "pinned": false
+    }
+  ]
+}

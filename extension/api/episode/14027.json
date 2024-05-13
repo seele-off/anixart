@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 4764,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 22,
+      "name": "JAM CLUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1764,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 93,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 41,
+      "name": "Persona99",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 30,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 33,
+      "name": "Amazing Dubbing",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 28,
+      "pinned": false
+    }
+  ]
+}

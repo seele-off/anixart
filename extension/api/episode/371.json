@@ -1,27 +1,27 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Azazel, Venera, Viki, NIKITOS, MCShaman, Nika Lenina",
-"is_sub": false,
-"episodes_count": 14,
-"view_count": 397,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 17,
-"name": "SHIZA Project",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 13,
-"view_count": 55,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 14,
+      "view_count": 413,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 56,
+      "pinned": false
+    }
+  ]
 }

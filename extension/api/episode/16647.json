@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 0,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 919,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Cuba77, Zack_Fair",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 533,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 232,
+      "name": "KitsuneBox",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 19,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 14,
+      "name": "AniFilm",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 3,
+      "pinned": false
+    }
+  ]
+}

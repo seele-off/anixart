@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 830,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 653,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 27,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 20,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 41,
+      "name": "Persona99",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 3,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 93,
+      "name": "FumoDub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 402,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 166,
+      "name": "EVA",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 207,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 74,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 40,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 183,
+      "name": "FreedubStudio",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 16,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 19,
+      "name": "Субтитры | MedusaSub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 13,
+      "pinned": false
+    }
+  ]
+}

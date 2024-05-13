@@ -1,71 +1,71 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Студия ЯСКЪЕР, Ancord, Nika Lenina, Рина Гришина, Денис Строев, Сергей Пономарёв, Михаил Кшиштовский",
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 1102,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 303,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 51,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 34,
-"name": "Люб. Двухголосый",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 12,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 41,
-"name": "Persona99",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 12,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 107,
-"name": "Anything Group",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 9,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1159,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 320,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 56,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 34,
+      "name": "Люб. Двухголосый",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 12,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 41,
+      "name": "Persona99",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 12,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 107,
+      "name": "Anything Group",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 9,
+      "pinned": false
+    }
+  ]
 }

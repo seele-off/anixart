@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 32,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 8,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 90,
+      "name": "ХЗ Лол",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 2,
+      "pinned": false
+    }
+  ]
+}

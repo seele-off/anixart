@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 93,
+      "name": "FumoDub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 899,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 134,
+      "pinned": false
+    }
+  ]
+}

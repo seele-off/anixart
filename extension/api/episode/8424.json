@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 612,
+      "pinned": false
+    }
+  ]
+}

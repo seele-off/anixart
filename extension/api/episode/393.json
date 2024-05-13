@@ -1,49 +1,49 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 103,
-"view_count": 5586,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 26,
-"name": "Дублированный",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 103,
-"view_count": 3674,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 157,
-"name": "Animegroup",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 103,
-"view_count": 751,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Animegroup",
-"is_sub": false,
-"episodes_count": 103,
-"view_count": 0,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 103,
+      "view_count": 6906,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 26,
+      "name": "Дублированный",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 103,
+      "view_count": 4435,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 157,
+      "name": "Animegroup",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 103,
+      "view_count": 817,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Animegroup",
+      "is_sub": false,
+      "episodes_count": 103,
+      "view_count": 0,
+      "pinned": false
+    }
+  ]
 }

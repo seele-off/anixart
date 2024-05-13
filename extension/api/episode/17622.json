@@ -1,82 +1,82 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 9,
-"name": "AnimeVost",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 151,
-"name": "Dream Cast",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 7,
-"name": "Субтитры | SovetRomantica",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 46,
-"name": "Субтитры | CR",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 57,
-"name": "TAKEOVER Project",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 7,
-"id": 18,
-"name": "youmiteru",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 5,
-"view_count": 0,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 756,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 151,
+      "name": "Dream Cast",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 282,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 32,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 30,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 57,
+      "name": "TAKEOVER Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 17,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 18,
+      "name": "youmiteru",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 0,
+      "pinned": false
+    }
+  ]
 }

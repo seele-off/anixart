@@ -1,27 +1,27 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Ancord",
-"is_sub": false,
-"episodes_count": 3,
-"view_count": 2109,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 41,
-"name": "Persona99",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 3,
-"view_count": 101,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 3,
+      "view_count": 2220,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 41,
+      "name": "Persona99",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 3,
+      "view_count": 110,
+      "pinned": false
+    }
+  ]
 }

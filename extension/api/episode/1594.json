@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 214,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Demetra, Esther, 9й Неизвестный",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 41,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 4,
+      "pinned": false
+    }
+  ]
+}

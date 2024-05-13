@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 151,
+      "name": "Dream Cast",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 1224,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 93,
+      "name": "FumoDub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 125,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 64,
+      "name": "FRONDA",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 3,
+      "view_count": 13,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 46407,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 21023,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 151,
+      "name": "Dream Cast",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 9179,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 4720,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 2329,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 418,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 182,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 270,
+      "name": "AniBaza",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 114,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 64,
+      "name": "FRONDA",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 67,
+      "pinned": false
+    }
+  ]
+}

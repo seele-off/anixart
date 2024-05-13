@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 196,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 32,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 86,
+      "name": "VokiDoki",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 587,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 93,
+      "name": "FumoDub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 127,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 74,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 20,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 131,
+      "name": "FSG VokiDoki.Subtitles",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 10,
+      "pinned": false
+    }
+  ]
+}

@@ -1,93 +1,93 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Ancord, Jam, Nika Lenina",
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 49405,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 37337,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 17,
-"name": "SHIZA Project",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 565,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 235,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 14,
-"name": "AniFilm",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 147,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 60,
-"name": "MiraiDUB",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 117,
-"pinned": false
-},
-{
-"@id": 7,
-"id": 15,
-"name": "Onibaku",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 75,
-"pinned": false
-},
-{
-"@id": 8,
-"id": 106,
-"name": "LE-Production",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 58,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 59683,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 46461,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 630,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 267,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 14,
+      "name": "AniFilm",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 175,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 167,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 15,
+      "name": "Onibaku",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 99,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 106,
+      "name": "LE-Production",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 72,
+      "pinned": false
+    }
+  ]
 }

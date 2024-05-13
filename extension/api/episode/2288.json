@@ -1,71 +1,71 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "JAM",
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 119460,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 76769,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 22,
-"name": "JAM CLUB",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 33256,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 974,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 7,
-"name": "Субтитры | SovetRomantica",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 874,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 115,
-"name": "NewComers",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 24,
-"view_count": 260,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 146969,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 95355,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 22,
+      "name": "JAM CLUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 40941,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 1343,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 1230,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 115,
+      "name": "NewComers",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 24,
+      "view_count": 377,
+      "pinned": false
+    }
+  ]
 }

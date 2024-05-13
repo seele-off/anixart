@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 93,
+      "name": "FumoDub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1060,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 136,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 108,
+      "name": "Субтитры | YakuSub Studio",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 40,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 240,
+      "name": "AniJoy",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 12,
+      "pinned": false
+    }
+  ]
+}

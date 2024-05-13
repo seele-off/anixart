@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "n_o_i_r",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 754,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 156,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 75,
+      "pinned": false
+    }
+  ]
+}

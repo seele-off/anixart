@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Trina_D, Nika Lenina",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 823,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 14,
+      "name": "AniFilm",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 56,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 106,
+      "name": "LE-Production",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 7,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 6,
+      "pinned": false
+    }
+  ]
+}

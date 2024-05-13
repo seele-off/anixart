@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 182,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 29,
+      "name": "StudioBand",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 50,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 20,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 32,
+      "name": "Субтитры | WA",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 4,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 1,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 13,
+      "name": "AniMaunt",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 1,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 18,
+      "name": "youmiteru",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 1,
+      "pinned": false
+    }
+  ]
+}

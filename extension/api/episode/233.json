@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "OSLIKt",
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 126,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 42,
+      "name": "Persona99 & MaxDamage",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 11,
+      "view_count": 50,
+      "pinned": false
+    }
+  ]
+}

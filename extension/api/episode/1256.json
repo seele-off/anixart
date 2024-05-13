@@ -1,104 +1,104 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 29,
-"name": "StudioBand (⌐■_■)",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 25,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 25,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 26,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 24,
-"name": "Субтитры",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 25,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 23,
-"name": "2x2",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 25,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 16,
-"name": "Kansai",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 25,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 7,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 25,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 8,
-"id": 14,
-"name": "AniFilm",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 25,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 9,
-"id": 34,
-"name": "Люб. Двухголосый",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 9,
-"view_count": 0,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 29,
+      "name": "StudioBand",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 25,
+      "view_count": 125185,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 25,
+      "view_count": 26002,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Cuba77, Trina_D",
+      "is_sub": false,
+      "episodes_count": 26,
+      "view_count": 4801,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 25,
+      "view_count": 3929,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 23,
+      "name": "2x2",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 25,
+      "view_count": 949,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 16,
+      "name": "Kansai",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 25,
+      "view_count": 636,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 25,
+      "view_count": 155,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 14,
+      "name": "AniFilm",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 25,
+      "view_count": 125,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 34,
+      "name": "Люб. Двухголосый",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 9,
+      "view_count": 64,
+      "pinned": false
+    }
+  ]
 }

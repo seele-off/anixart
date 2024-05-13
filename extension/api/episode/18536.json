@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 89826,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 8833,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 5996,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 1080,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 31,
+      "name": "Субтитры | AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 624,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 33,
+      "name": "Amazing Dubbing",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 86,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 13,
+      "name": "AniMaunt",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 80,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 74,
+      "name": "SEKAI PROJECT",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 9,
+      "view_count": 9,
+      "pinned": false
+    }
+  ]
+}

@@ -1,70 +1,71 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 68,
-"name": "Проф. CR",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 17,
-"name": "SHIZA Project",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 16,
-"name": "Kansai",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 12,
-"view_count": 0,
-"pinned": false
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Kobayashi, Гамлетка Цезаревна, 9й Неизвестный",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 4842,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 3063,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 92,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 68,
+      "name": "Проф. CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 71,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 16,
+      "name": "Kansai",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 27,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 12,
+      "pinned": false
+    }
+  ]
 }
-]

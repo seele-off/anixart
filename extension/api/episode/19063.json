@@ -1,0 +1,137 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 61620,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 161,
+      "name": "OnWave",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 25814,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 7581,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 4199,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 1286,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 13,
+      "name": "AniMaunt",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 634,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 270,
+      "name": "AniBaza",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 546,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 301,
+      "name": "Студия «ПИП»",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 391,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 70,
+      "name": "Ушастая озвучка",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 204,
+      "pinned": false
+    },
+    {
+      "@id": 10,
+      "id": 294,
+      "name": "DOBROVOICE",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 41,
+      "pinned": false
+    },
+    {
+      "@id": 11,
+      "id": 199,
+      "name": "GrandStudio",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 7,
+      "view_count": 36,
+      "pinned": false
+    },
+    {
+      "@id": 12,
+      "id": 176,
+      "name": "SovetRomantica",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 6,
+      "view_count": 30,
+      "pinned": false
+    }
+  ]
+}

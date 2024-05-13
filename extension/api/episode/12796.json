@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 766,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 41,
+      "name": "Persona99",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 48,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 183,
+      "name": "FreedubStudio",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 37,
+      "pinned": false
+    }
+  ]
+}

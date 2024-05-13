@@ -1,0 +1,60 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 11752,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 6209,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 109,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 66,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 106,
+      "name": "LE-Production",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 43,
+      "pinned": false
+    }
+  ]
+}

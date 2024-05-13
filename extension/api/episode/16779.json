@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 1852,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 120,
+      "pinned": false
+    }
+  ]
+}

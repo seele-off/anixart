@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 29,
+      "name": "StudioBand",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 8133,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 16,
+      "name": "Kansai",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 783,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 298,
+      "pinned": false
+    }
+  ]
+}

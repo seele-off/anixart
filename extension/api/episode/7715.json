@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 163,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 234,
+      "name": "Студия LKM",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 28,
+      "pinned": false
+    }
+  ]
+}

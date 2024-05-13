@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Azazel, Inferno Phantom, Jar, Berserk, Shiro",
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 199,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 60,
+      "name": "MiraiDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 81,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 14,
+      "name": "AniFilm",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 32,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 80,
+      "name": "Cactus Team",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 3,
+      "pinned": false
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 26,
-"view_count": 0,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Тinko, Nika Lenina, Chigusa, Yupinory",
+      "is_sub": false,
+      "episodes_count": 26,
+      "view_count": 1473,
+      "pinned": false
+    }
+  ]
 }

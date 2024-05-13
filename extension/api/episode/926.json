@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 21124,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 2278,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 151,
+      "name": "Dream Cast",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 2151,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 635,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 438,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 14,
+      "name": "AniFilm",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 111,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 15,
+      "name": "Onibaku",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 50,
+      "pinned": false
+    }
+  ]
+}

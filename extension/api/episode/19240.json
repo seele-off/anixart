@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 2646,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 2378,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 266,
+      "name": "Субтитры | AniJoy  ",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 1208,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 240,
+      "name": "AniJoy",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 393,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 270,
+      "name": "AniBaza",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 231,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 327,
+      "name": "Beloved",
+      "icon": "",
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 179,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 268,
+      "name": "Субтитры | SubVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 143,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 200,
+      "name": "Kazoku Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 91,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Ancord",
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 0,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 54,
+      "name": "Aquanime",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 72,
+      "view_count": 1606,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 24,
+      "name": "Субтитры",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 72,
+      "view_count": 118,
+      "pinned": false
+    }
+  ]
+}

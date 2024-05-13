@@ -1,27 +1,27 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 258,
-"name": "MifSnaiper",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 26,
-"view_count": 27,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 29,
-"name": "StudioBand",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 26,
-"view_count": 21,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 29,
+      "name": "StudioBand",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 26,
+      "view_count": 44,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 258,
+      "name": "MifSnaiper",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 26,
+      "view_count": 27,
+      "pinned": false
+    }
+  ]
 }

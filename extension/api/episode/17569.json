@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 166,
+      "name": "EVA",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 8130,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 1357,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 20,
+      "name": "Субтитры | AniRise",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 490,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 21,
+      "name": "AniRise",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 454,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 19,
+      "name": "Субтитры | MedusaSub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 210,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 144,
+      "name": "Force Media",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 7,
+      "view_count": 79,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 183,
+      "name": "FreedubStudio",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 77,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 3,
+      "view_count": 12,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 32,
+      "name": "Субтитры | WA",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 8,
+      "pinned": false
+    },
+    {
+      "@id": 10,
+      "id": 168,
+      "name": "Lebaka",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 7,
+      "pinned": false
+    },
+    {
+      "@id": 11,
+      "id": 35,
+      "name": "Люб. Многоголосый",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 6,
+      "pinned": false
+    }
+  ]
+}

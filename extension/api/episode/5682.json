@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 156,
+      "name": "Tinda",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 17,
+      "pinned": false
+    }
+  ]
+}

@@ -1,71 +1,71 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 16,
-"name": "Kansai",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 2,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 26,
-"name": "Дублированный",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 2,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 1,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 46,
-"name": "Субтитры | CR",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 2,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 15,
-"name": "Onibaku",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 2,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 164,
-"name": "NekoVoice",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 2,
-"view_count": 0,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 16,
+      "name": "Kansai",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 1940,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 26,
+      "name": "Дублированный",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 1244,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 238,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 201,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 15,
+      "name": "Onibaku",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 40,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 164,
+      "name": "NekoVoice",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 18,
+      "pinned": false
+    }
+  ]
 }

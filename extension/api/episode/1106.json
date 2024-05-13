@@ -1,60 +1,60 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 49,
-"name": "Ancord",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 175,
-"view_count": 543015,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Ancord",
-"is_sub": false,
-"episodes_count": 175,
-"view_count": 89701,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 17,
-"name": "SHIZA Project",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 175,
-"view_count": 26887,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 175,
-"view_count": 11251,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 41,
-"name": "Persona99",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 175,
-"view_count": 2613,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 49,
+      "name": "Ancord",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 175,
+      "view_count": 566735,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 175,
+      "view_count": 93632,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 175,
+      "view_count": 28273,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 175,
+      "view_count": 11610,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 41,
+      "name": "Persona99",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 175,
+      "view_count": 2713,
+      "pinned": false
+    }
+  ]
 }

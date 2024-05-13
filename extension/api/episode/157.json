@@ -1,27 +1,27 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Azazel, n_o_i_r, Ursula, NIKITOS",
-"is_sub": false,
-"episodes_count": 13,
-"view_count": 710,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 36,
-"name": "Люб. Одноголосый",
-"icon": null,
-"workers": null,
-"is_sub": false,
-"episodes_count": 13,
-"view_count": 37,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 715,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 36,
+      "name": "Люб. Одноголосый",
+      "icon": null,
+      "workers": "Отображается благодаря расширению «MD Seele»",
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 37,
+      "pinned": false
+    }
+  ]
 }

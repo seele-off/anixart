@@ -1,0 +1,104 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 29,
+      "name": "StudioBand",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 2679,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 11,
+      "name": "AniStar Многоголосый",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 235,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 32,
+      "name": "Субтитры | WA",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 84,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 63,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 21,
+      "name": "AniRise",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 46,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 246,
+      "name": "AniRai",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 35,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 240,
+      "name": "AniJoy",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 31,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 176,
+      "name": "SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 29,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 108,
+      "name": "Субтитры | YakuSub Studio",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 28,
+      "pinned": false
+    }
+  ]
+}

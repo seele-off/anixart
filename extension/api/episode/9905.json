@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 2686,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 80,
+      "name": "Cactus Team",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 222,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 176,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 35,
+      "name": "Люб. Многоголосый",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 118,
+      "pinned": false
+    }
+  ]
+}

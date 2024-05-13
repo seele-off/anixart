@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 29,
+      "name": "StudioBand",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 893,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 629,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 32,
+      "name": "Субтитры | WA",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 122,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 58,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 169,
+      "name": "Saturn Union",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 9,
+      "view_count": 1,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 20,
+      "name": "Субтитры | AniRise",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 1,
+      "view_count": 0,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 21,
+      "name": "AniRise",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 0,
+      "pinned": false
+    }
+  ]
+}

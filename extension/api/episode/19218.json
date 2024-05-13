@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 2069,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 151,
+      "name": "Dream Cast",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 1139,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 790,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 270,
+      "name": "AniBaza",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 147,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 5,
+      "view_count": 92,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 200,
+      "name": "Kazoku Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 41,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 305,
+      "name": "AniLot",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 9,
+      "pinned": false
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 885,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 110,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 200,
+      "name": "Kazoku Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 80,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 51,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 64,
+      "name": "FRONDA",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 27,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 10,
+      "name": "AniStar",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 15,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 226,
+      "name": "Субтитры | Kazoku Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 14,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 261,
+      "name": "Творческая студия МИР",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 5,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 294,
+      "name": "DOBROVOICE",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 4,
+      "pinned": false
+    },
+    {
+      "@id": 10,
+      "id": 222,
+      "name": "Shikoku Studio",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 2,
+      "pinned": false
+    }
+  ]
+}

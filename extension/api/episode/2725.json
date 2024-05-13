@@ -1,115 +1,115 @@
 {
-"code": 0,
-"types": [
-{
-"@id": 1,
-"id": 29,
-"name": "StudioBand",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 2,
-"id": 2,
-"name": "AniLibria",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 3,
-"id": 46,
-"name": "Субтитры | CR",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 4,
-"id": 22,
-"name": "JAM CLUB",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 5,
-"id": 7,
-"name": "Субтитры | SovetRomantica",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 6,
-"id": 16,
-"name": "Kansai",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 7,
-"id": 15,
-"name": "Onibaku",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 8,
-"id": 12,
-"name": "AniMedia",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 9,
-"id": 176,
-"name": "SovetRomantica",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 2,
-"view_count": 0,
-"pinned": false
-},
-{
-"@id": 10,
-"id": 1,
-"name": "AniDUB",
-"icon": null,
-"workers": "Отображается благодаря расширению «MD Seele»",
-"is_sub": false,
-"episodes_count": 10,
-"view_count": 0,
-"pinned": false
-}
-]
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 29,
+      "name": "StudioBand",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 38594,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 6040,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 878,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 22,
+      "name": "JAM CLUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 691,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 16,
+      "name": "Kansai",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 170,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 7,
+      "name": "Субтитры | SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 126,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 15,
+      "name": "Onibaku",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 65,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 12,
+      "name": "AniMedia",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 55,
+      "pinned": false
+    },
+    {
+      "@id": 9,
+      "id": 176,
+      "name": "SovetRomantica",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 9,
+      "pinned": false
+    },
+    {
+      "@id": 10,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": "JAM, Trina_D",
+      "is_sub": false,
+      "episodes_count": 10,
+      "view_count": 0,
+      "pinned": false
+    }
+  ]
 }

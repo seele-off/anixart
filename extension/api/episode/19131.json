@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 2,
+      "name": "AniLibria",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 6165,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 9,
+      "name": "AnimeVost",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 1744,
+      "pinned": false
+    },
+    {
+      "@id": 3,
+      "id": 46,
+      "name": "Субтитры | CR",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 1066,
+      "pinned": false
+    },
+    {
+      "@id": 4,
+      "id": 1,
+      "name": "AniDUB",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 673,
+      "pinned": false
+    },
+    {
+      "@id": 5,
+      "id": 17,
+      "name": "SHIZA Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 4,
+      "view_count": 20,
+      "pinned": false
+    },
+    {
+      "@id": 6,
+      "id": 71,
+      "name": "Субтитры | Sanae",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 2,
+      "view_count": 17,
+      "pinned": false
+    },
+    {
+      "@id": 7,
+      "id": 200,
+      "name": "Kazoku Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 17,
+      "pinned": false
+    },
+    {
+      "@id": 8,
+      "id": 226,
+      "name": "Субтитры | Kazoku Project",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 12,
+      "view_count": 2,
+      "pinned": false
+    }
+  ]
+}

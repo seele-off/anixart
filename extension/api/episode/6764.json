@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "types": [
+    {
+      "@id": 1,
+      "id": 62,
+      "name": "OpenDub",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 376,
+      "pinned": false
+    },
+    {
+      "@id": 2,
+      "id": 154,
+      "name": "animereactor",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 13,
+      "view_count": 28,
+      "pinned": false
+    }
+  ]
+}
