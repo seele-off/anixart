@@ -46,11 +46,11 @@
 <br><br><br>
 
 <b>Команда разработчиков:</b><br>
-@seele_off<br>
+<a href="https://t.me/seele_off">@seele_off</a><br>
 → Автор/Разработчик
 <br>
-@vladis1avchik<br>
+<a href="https://t.me/vladis1avchik<br>">@vladis1avchik</a><br>
 → Разработчик «MD Seele v3.0» и сайта
 <br>
-@bocchi_the_neka<br>
+<a href="https://t.me/bocchi_the_neka">@bocchi_the_neka</a><br>
 → Monet Theme (Material You)
