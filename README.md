@@ -49,7 +49,7 @@
 <a href="https://t.me/seele_off">@seele_off</a><br>
 → Автор/Разработчик
 <br>
-<a href="https://t.me/vladis1avchik<br>">@vladis1avchik</a><br>
+<a href="https://t.me/vladis1avchik">@vladis1avchik</a><br>
 → Разработчик «MD Seele v3.0» и сайта
 <br>
 <a href="https://t.me/bocchi_the_neka">@bocchi_the_neka</a><br>
