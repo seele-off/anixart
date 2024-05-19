@@ -14,7 +14,6 @@
 <br>
 
 <b>2) Anixart Exclusive</b>
-<li>
 <li>Базовая версия: 8.2.1</li>
 <li>Версия модификации: v1.0 Exclusive</li>
 <li>Пакет: com.seele.anixart (Оригинал)</li>
