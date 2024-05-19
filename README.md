@@ -17,7 +17,7 @@
 <br>
 → Расширение предназначено для просмотра запрещенных аниме.
 <br>
-<a href="">Скачать Default версия</a>
+<a href="https://github.com/seele-off/anixart/releases/download/anixart-default/Anixart-Default-v1.0-by-Seele.apk">Скачать Default версия</a>
 <br><br>
 
 <b>2) Anixart Exclusive</b>
@@ -42,7 +42,7 @@
 <br>
 → Расширение предназначено для просмотра запрещенных аниме.
 <br>
-<a href="">Скачать Exclusive версия</a>
+<a href="https://github.com/seele-off/anixart/releases/download/anixart-exclusive/Anixart-Exclusive-v1.0-by-Seele.apk">Скачать Exclusive версия</a>
 <br><br><br>
 
 <b>Команда разработчиков:</b><br>
